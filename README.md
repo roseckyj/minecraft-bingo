@@ -15,4 +15,4 @@ To start playing you need to[ **install the datapack**](https://www.planetminecr
 
 Inspired by Swiep's [Minecraft Bingo Datapack](https://www.reddit.com/r/Minecraft/comments/f7iwat/hi_we_made_a_minecraft_bingo_datapack_for_115/) the game gets started by **getting a dirt block** and the board can later be accessed by **pressing L** to open advancements.
 
-You can play with this datapack in singleplayer or multiplayer. Feel free to redistribute or modify the datapack (or update it for future versions), just don't forget to mention the source. Also recording or streaming with this datapack is encouraged, just tag this post so others can find it.
+You can play with this datapack in singleplayer or multiplayer. Feel free to redistribute or modify the datapack (or update it for future versions), just don't forget to mention the source. Also recording or streaming with this datapack is encouraged, just tag the source so others can find it.
