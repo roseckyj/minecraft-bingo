@@ -1,7 +1,8 @@
+import errno
 import json
 import os
-import errno
 import random
+
 
 def getFilename(x, y):
     return ["d", "b", "c", "a", "e"][y] + str(x + 1) + str(y + 1)
@@ -15,7 +16,7 @@ with open('items.json') as json_file:
     print("Select categories of items:")
     
     for category in raw.keys():
-        selected = category == "default"
+        selected = True
         reply = input(" - " + category + " (" + ("Y/n" if selected else "y/N")  + "): ")
         if (reply != ""):
             if (reply.lower().startswith("y")):
