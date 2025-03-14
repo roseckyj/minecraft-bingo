@@ -1,0 +1,23 @@
+{
+    "criteria": {
+        "win": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "frame": "challenge",
+        "description": {
+            "translate": "Get the first item from your card"
+        },
+        "icon": {
+            "id": "minecraft:iron_ingot"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "It's a great start!"
+        },
+        "hidden": true
+    },
+    "parent": "bingo:win/root"
+}

@@ -1,0 +1,23 @@
+{
+    "criteria": {
+        "win": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "frame": "challenge",
+        "description": {
+            "translate": "You completed the full bingo card!"
+        },
+        "icon": {
+            "id": "minecraft:dragon_head"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "Bingo master"
+        },
+        "hidden": true
+    },
+    "parent": "bingo:win/wintwo"
+}

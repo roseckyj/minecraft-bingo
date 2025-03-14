@@ -1,0 +1,23 @@
+{
+    "criteria": {
+        "win": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "frame": "challenge",
+        "description": {
+            "translate": "You completed at least two lines!"
+        },
+        "icon": {
+            "id": "minecraft:netherite_ingot"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "Another one"
+        },
+        "hidden": true
+    },
+    "parent": "bingo:win/win"
+}

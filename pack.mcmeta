@@ -1,1 +1,6 @@
-{"pack":{"pack_format":6,"description":"Generate by running script.py before playing"}}
+{
+    "pack": {
+        "pack_format": 61,
+        "description": "Generate by running script.py before playing"
+    }
+}

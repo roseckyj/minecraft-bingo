@@ -1,0 +1,35 @@
+{
+    "criteria": {
+        "dirt": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:dirt"
+                        ]
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "announce_to_chat": false,
+        "background": "block/deepslate",
+        "description": {
+            "translate": "Let's get this party started!"
+        },
+        "icon": {
+            "id": "minecraft:book"
+        },
+        "show_toast": false,
+        "title": {
+            "translate": "Bingo"
+        }
+    },
+    "requirements": [
+        [
+            "dirt"
+        ]
+    ]
+}

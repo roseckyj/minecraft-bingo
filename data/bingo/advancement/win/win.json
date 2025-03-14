@@ -1,0 +1,23 @@
+{
+    "criteria": {
+        "win": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "frame": "challenge",
+        "description": {
+            "translate": "You won!"
+        },
+        "icon": {
+            "id": "minecraft:diamond"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "Win bingo"
+        },
+        "hidden": true
+    },
+    "parent": "bingo:win/getone"
+}

@@ -1,0 +1,36 @@
+{
+    "criteria": {
+        "dirt": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:dirt"
+                        ]
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "announce_to_chat": false,
+        "frame": "challenge",
+        "background": "block/raw_gold_block",
+        "description": {
+            "translate": "Let's see how far you can go!"
+        },
+        "icon": {
+            "id": "minecraft:gold_ingot"
+        },
+        "show_toast": false,
+        "title": {
+            "translate": "Bingo achievements"
+        }
+    },
+    "requirements": [
+        [
+            "dirt"
+        ]
+    ]
+}

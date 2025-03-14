@@ -6,12 +6,12 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:dirt"
+                        "items": ["minecraft:dirt"]
                     }
                 ]
             }
         }
     },
-    "parent": "bingo:a54"
+    "parent": "bingo:generated/e55"
 }
             
