@@ -1,0 +1,1 @@
+scoreboard objectives add team dummy "Team"
